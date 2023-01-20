@@ -1,8 +1,9 @@
 //import logo from './logo.svg';
 //import './App.css';
 import React from 'react';
-import Data from '../blog-data/BlogData';
-import Article from './Article' 
+//import Data from '../blog-data/BlogData';
+//import Header from
+//import Article from 
 import ArticleList from './ArticleList'
 
 
