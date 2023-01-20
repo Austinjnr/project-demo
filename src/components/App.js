@@ -11,9 +11,8 @@ import ArticleList from './ArticleList'
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Article/>
-      <ArticleList/>
+      
+      <ArticleList meals={Data.meals}/>
     </div>
   );
 }
