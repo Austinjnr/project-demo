@@ -1,10 +1,15 @@
 import React from 'react';
+//import Article from 
 
 
-function ArticleList () {
+function ArticleList (idMeal) {
 
     return (
-        <main></main>
+        <main>
+            <Article key = {idMeal}/>
+            <Article key = {idMeal}/>
+            <Article key = {idMeal}/>
+        </main>
     )
 }
 
