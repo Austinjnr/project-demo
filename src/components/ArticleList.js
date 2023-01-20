@@ -1,17 +1,3 @@
-// import React from 'react';
-
-
-// function ArticleList () {
-
-//     return (
-//         <main></main>
-//     )
-// }
-
-// export default ArticleList;
-
-//import Article from 
-
 
 function ArticleList (idMeal) {
 
