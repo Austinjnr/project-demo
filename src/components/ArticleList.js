@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-// import React from 'react';
+
+import React from 'react';
+
 
 
 // function ArticleList () {
@@ -29,21 +30,6 @@ const ArticleList = ({articles, mealTitle}) => {
             ))}         
         </div>
     );
-=======
-import React from 'react';
-//import Article from 
-
-
-function ArticleList (idMeal) {
-
-    return (
-        <main>
-            <Article key = {idMeal}/>
-            <Article key = {idMeal}/>
-            <Article key = {idMeal}/>
-        </main>
-    )
->>>>>>> 4784f5e8adbab45a0ed89d611495e5c0af0dfddd
 }
- 
-export default ArticleList
+
+export default ArticleList;
