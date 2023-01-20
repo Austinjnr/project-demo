@@ -9,6 +9,7 @@ const Article = () => {
     ]);
     return (
         <div className="home">
+            
            <ArticleList articles={articles} mealTitle="All Articles" />
         </div>
     );
