@@ -22,4 +22,6 @@ const Data = {
         "description":"It is made with mostly pantry ingredients but includes hearty greens and a squeeze of lemon for bright, fresh flavor. It’s seasoned with a few of my favorite spices and plenty of freshly ground black pepper."
       },
     ]
-  }
+  };
+
+  export default Data;
