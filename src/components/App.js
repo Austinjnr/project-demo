@@ -3,8 +3,7 @@
 import React from 'react';
 //import Data from '../blog-data/BlogData';
 //import Header from
-//import Article from
-import Article from './Article' 
+//import Article from 
 import ArticleList from './ArticleList'
 
 
